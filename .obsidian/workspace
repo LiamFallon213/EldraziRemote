@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notable Eldrazi/Brook of Kozilek/Kozilek.md",
+            "file": "Eldrazi/Information/Classifications/Processor.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notable Eldrazi/Brood of Emrakul/Emrakul.md",
+            "file": "Eldrazi/Emrakul.md",
             "mode": "preview",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notable Eldrazi/Brook of Kozilek/Kozilek.md",
+                "file": "Eldrazi/Information/Classifications/Processor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "67568c9f63ba8799",
   "lastOpenFiles": [
-    "Notable Eldrazi/Brook of Kozilek/Kozilek.md",
-    "Notable Eldrazi/Brood of Ulamog/Ulamog.md",
-    "Notable Eldrazi/Brood of Emrakul/Emrakul.md",
+    "Eldrazi/Information/Classifications/Processor.md",
+    "Eldrazi/Information/Classifications/Drone.md",
+    "Eldrazi/Information/Classifications/Scion - Spawn.md",
+    "Eldrazi/Brood of Ulamog/Void Winnower.md",
+    "Eldrazi/Emrakul.md",
+    "Eldrazi/Ulamog.md",
+    "Eldrazi/Kozilek.md",
     "DM-Campaign/PART 2/Random Idea Board.md",
     "Camerons Campaign/Locations/Glocester.md",
-    "Camerons Campaign/NPC's/Slaves/Slave Registry.md",
-    "Camerons Campaign/Locations/Bunny Girl.md",
-    "DM-Campaign/PART 2/NPC's/Akuma.md",
-    "Camerons Campaign/NPC's/Slaves/Elora Rose.md",
-    "Camerons Campaign/NPC's/Slaves/Mealynn Dawnguard.md"
+    "Camerons Campaign/NPC's/Slaves/Slave Registry.md"
   ]
 }
