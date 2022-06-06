@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "bc3dec8afdb0eaff",
+    "type": "split",
+    "children": [
+      {
+        "id": "67568c9f63ba8799",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "f05502d33b8b2f31",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89f56b7cc1070def",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecbdd55b847c7ec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d708f5a814284c4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "51a895a1e2d82e9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.0083885192871
+  },
+  "right": {
+    "id": "307437437f53b5f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a5653cc99384860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbc6855ef7466dc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "253d9b5bb6a398bd",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          },
+          {
+            "id": "b34208831e17169e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 119.26690673828125
+  },
+  "active": "f05502d33b8b2f31",
+  "lastOpenFiles": [
+    "DM-Campaign/PART 2/Random Idea Board.md",
+    "Camerons Campaign/Locations/Glocester.md",
+    "Camerons Campaign/NPC's/Slaves/Slave Registry.md",
+    "Camerons Campaign/Locations/Bunny Girl.md",
+    "DM-Campaign/PART 2/NPC's/Akuma.md",
+    "Camerons Campaign/NPC's/Slaves/Elora Rose.md",
+    "Camerons Campaign/NPC's/Slaves/Mealynn Dawnguard.md",
+    "Camerons Campaign/NPC's/Castlecliff/Council/Idona House.md",
+    "Camerons Campaign/NPC's/Castlecliff/Council/Edith Williams.md",
+    "Camerons Campaign/NPC's/Castlecliff/Council/Byreus House.md"
+  ]
+}
