@@ -7,16 +7,24 @@
         "id": "67568c9f63ba8799",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notable Eldrazi/Brook of Kozilek/Kozilek.md",
+            "mode": "source",
+            "source": false
+          }
         }
       },
       {
-        "id": "f05502d33b8b2f31",
+        "id": "1945019ec80edea5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notable Eldrazi/Brood of Emrakul/Emrakul.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notable Eldrazi/Brook of Kozilek/Kozilek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +116,17 @@
     "width": 119.26690673828125,
     "collapsed": true
   },
-  "active": "f05502d33b8b2f31",
+  "active": "67568c9f63ba8799",
   "lastOpenFiles": [
+    "Notable Eldrazi/Brook of Kozilek/Kozilek.md",
+    "Notable Eldrazi/Brood of Ulamog/Ulamog.md",
+    "Notable Eldrazi/Brood of Emrakul/Emrakul.md",
     "DM-Campaign/PART 2/Random Idea Board.md",
     "Camerons Campaign/Locations/Glocester.md",
     "Camerons Campaign/NPC's/Slaves/Slave Registry.md",
     "Camerons Campaign/Locations/Bunny Girl.md",
     "DM-Campaign/PART 2/NPC's/Akuma.md",
     "Camerons Campaign/NPC's/Slaves/Elora Rose.md",
-    "Camerons Campaign/NPC's/Slaves/Mealynn Dawnguard.md",
-    "Camerons Campaign/NPC's/Castlecliff/Council/Idona House.md",
-    "Camerons Campaign/NPC's/Castlecliff/Council/Edith Williams.md",
-    "Camerons Campaign/NPC's/Castlecliff/Council/Byreus House.md"
+    "Camerons Campaign/NPC's/Slaves/Mealynn Dawnguard.md"
   ]
 }
