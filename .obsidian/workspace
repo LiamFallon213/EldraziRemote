@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eldrazi/Information/Classifications/Unknowable.md",
+            "file": "Eldrazi/Information/Classifications/Unknowable Ones.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eldrazi/Information/Classifications/Unknowable.md",
+            "file": "Eldrazi/Information/Classifications/Unknowable Ones.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eldrazi/Information/Classifications/Unknowable.md",
+                "file": "Eldrazi/Information/Classifications/Unknowable Ones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
   },
   "active": "67568c9f63ba8799",
   "lastOpenFiles": [
-    "Eldrazi/Information/Classifications/Unknowable.md",
+    "Eldrazi/Information/Classifications/Unknowable Ones.md",
     "Eldrazi/Information/Classifications/Abominations.md",
     "Eldrazi/Information/Classifications/Unspeakable.md",
     "Eldrazi/Information/Classifications/Drone.md",
