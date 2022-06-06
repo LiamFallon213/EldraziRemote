@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eldrazi/Information/Classifications/Unknowable.md",
+            "file": "Planes/Innistrad/Innistrad.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eldrazi/Information/Classifications/Unknowable.md",
+            "file": "Planes/Innistrad/Innistrad.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eldrazi/Information/Classifications/Unknowable.md",
+                "file": "Planes/Innistrad/Innistrad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,8 @@
   },
   "active": "67568c9f63ba8799",
   "lastOpenFiles": [
+    "Planes/Innistrad/Innistrad.md",
+    "Planes/Innistrad/2.md",
     "Eldrazi/Information/Classifications/Unknowable.md",
     "Eldrazi/Information/Classifications/Unspeakable.md",
     "Eldrazi/Information/Classifications/Terminus (Titan).md",
@@ -127,8 +129,6 @@
     "Eldrazi/Information/Classifications/Abominations.md",
     "Eldrazi/Information/Classifications/Bane of Bala Ged.md",
     "Eldrazi/Information/Classifications/Mind Raker.md",
-    "Eldrazi/Information/Classifications/Drone.md",
-    "Eldrazi/Eldrazi.md",
-    "Eldrazi/Information/Classifications/Processor.md"
+    "Eldrazi/Information/Classifications/Drone.md"
   ]
 }
