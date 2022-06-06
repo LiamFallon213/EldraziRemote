@@ -32,3 +32,4 @@ Notable Abominations:
 [[Wretched Gryff]]
 [[Barrage Tyrant]]
 [[Bearer of Silence]]
+[[Kozikek's Channeler]]

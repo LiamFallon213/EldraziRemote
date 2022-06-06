@@ -17,4 +17,4 @@ Notable Types of Unspeakable Ones
 [[Eldrazi Devastator]]
 [[Hand of Emrakul]]
 [[Inverter of Truth]]
-[[End Bringer]]
+[[Deciver of Form]]
