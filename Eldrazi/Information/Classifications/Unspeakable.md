@@ -18,3 +18,4 @@ Notable Types of Unspeakable Ones
 [[Hand of Emrakul]]
 [[Inverter of Truth]]
 [[Deciver of Form]]
+[[Ulamogs Crusher]]
