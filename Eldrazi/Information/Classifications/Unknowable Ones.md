@@ -14,3 +14,6 @@ Notable Types of Unknowable Ones
 [[Desolation Twin]]
 [[Drownyard Behemoth]]
 [[Elder Deep-Fiend]]
+[[Eldrazi Devastator]]
+[[Hand of Emrakul]]
+[[Inverter of Truth]]

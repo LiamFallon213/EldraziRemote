@@ -9,4 +9,17 @@ Information:
 
   Abominations are the first tier where their reality warping effect tends to distort the world around them as a passive, in contrast to the drone's active distortion abilities. A single Abomination is an extreme threat to a village, or a dangerous enemy for a fortified settlement like a city. A weaker Abomination can often be felled with a large group at a high cost. However, they also represent the common limit of defense for a non-fortified settlement.
 
+Notable Abominations:
 
+[[It of the Horrid Swarm]]
+[[Kozilek's Pathfinder]]
+[[Lashweed Lurker]]
+[[Matter Reshaper]]
+[[Mind Raker]]
+[[Mockery of Nature]]
+[[Murk Strider]]
+[[Oracle of Dust]]
+[[Sifter of Skulls]]
+[[Smothering Abomination]]
+[[Thought-Knot Seer]]
+[[Ulamog's Despoiler]]
