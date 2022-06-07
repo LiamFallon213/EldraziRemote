@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Planes/Innistrad/Innistrad.md",
+            "file": "Session Plans/Session 1 Plan.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Planes/Innistrad/Innistrad.md",
+            "file": "Session Plans/Session 1 Plan.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planes/Innistrad/Innistrad.md",
+                "file": "Session Plans/Session 1 Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "67568c9f63ba8799",
   "lastOpenFiles": [
+    "Session Plans/Session 1 Plan.md",
     "Planes/Innistrad/Innistrad.md",
     "Planes/Innistrad/2.md",
     "Eldrazi/Information/Classifications/Unknowable.md",
@@ -128,7 +129,6 @@
     "Eldrazi/Information/Classifications/Scion.md",
     "Eldrazi/Information/Classifications/Abominations.md",
     "Eldrazi/Information/Classifications/Bane of Bala Ged.md",
-    "Eldrazi/Information/Classifications/Mind Raker.md",
-    "Eldrazi/Information/Classifications/Drone.md"
+    "Eldrazi/Information/Classifications/Mind Raker.md"
   ]
 }
