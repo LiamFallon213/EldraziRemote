@@ -2,4 +2,4 @@ Archæa was an ancient, interplanar civilization that reached it's peak circa -1
 
 Archæa was a highly advanced civilization that began around -120,000 AR and collapsed ~-100,000 AR. 
 
-Archæan tech far surpasses anything found in the universe today. 
+Archæan tech far surpasses anything found in the universe today.  The Planar Bridge is powered by a Planar core produced in Archæa.
