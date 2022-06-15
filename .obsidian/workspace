@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session Plans/Session 1 Plan.md",
+            "file": "Archae/Archæ.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session Plans/Session 1 Plan.md",
+            "file": "Archae/Archæ.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Plans/Session 1 Plan.md",
+                "file": "Archae/Archæ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "67568c9f63ba8799",
   "lastOpenFiles": [
+    "Archae/Archæ.md",
     "Session Plans/Session 1 Plan.md",
     "Planes/Innistrad/Innistrad.md",
     "Planes/Innistrad/2.md",
@@ -128,7 +129,6 @@
     "Eldrazi/Information/Classifications/Terminus (Titan).md",
     "Eldrazi/Information/Classifications/Scion.md",
     "Eldrazi/Information/Classifications/Abominations.md",
-    "Eldrazi/Information/Classifications/Bane of Bala Ged.md",
-    "Eldrazi/Information/Classifications/Mind Raker.md"
+    "Eldrazi/Information/Classifications/Bane of Bala Ged.md"
   ]
 }
