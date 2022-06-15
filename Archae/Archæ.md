@@ -1,1 +1,0 @@
-Archæ was an ancient, interplanar civilization that reached it's peak circa -110,000 AR. The Equilorians are a 
