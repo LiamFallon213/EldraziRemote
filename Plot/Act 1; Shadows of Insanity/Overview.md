@@ -32,6 +32,10 @@
 | [[Olivia Voladren]]    | Vampires   |
 | [[Tovolar]]            | Werewolves |
 
+## Wrighting
+
+---
+
 The date is 13 AT, (After trevails). Olivia Voldaren leads the Vampires, while Anastasia Vaeloria 
 
 leads the remainder of Humanity from the warded city of Krothval.
