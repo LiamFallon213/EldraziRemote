@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Archae/Archæa.md",
+            "file": "Plot/Act 1; Shadows of Insanity/NPC's/Krothval.md",
             "mode": "source",
             "source": false
           }
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Archae/Archæa.md",
-            "mode": "preview",
+            "file": "Plot/Act 1; Shadows of Insanity/NPC's/Krothval.md",
+            "mode": "source",
             "source": false
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archae/Archæa.md",
+                "file": "Plot/Act 1; Shadows of Insanity/NPC's/Krothval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "id": "253d9b5bb6a398bd",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {}
             }
           },
@@ -107,6 +107,14 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c74d3b9dd5a05030",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
               "state": {}
             }
           }
@@ -118,17 +126,17 @@
     "width": 119.26690673828125,
     "collapsed": true
   },
-  "active": "67568c9f63ba8799",
+  "active": "1945019ec80edea5",
   "lastOpenFiles": [
-    "Archae/Archæa.md",
+    "Plot/Act 1; Shadows of Insanity/NPC's/Krothval.md",
+    "Plot/Act 1; Shadows of Insanity/NPC's/Anastasia Vaeloria.md",
+    "Plot/Act 1; Shadows of Insanity/NPC's/Olivia Voladren.md",
     "Session Plans/Session 1 Plan.md",
+    "Plot/Act 1; Shadows of Insanity/Overview.md",
+    "Archae/Archæa.md",
     "Planes/Innistrad/Innistrad.md",
     "Planes/Innistrad/2.md",
     "Eldrazi/Information/Classifications/Unknowable.md",
-    "Eldrazi/Information/Classifications/Unspeakable.md",
-    "Eldrazi/Information/Classifications/Terminus (Titan).md",
-    "Eldrazi/Information/Classifications/Scion.md",
-    "Eldrazi/Information/Classifications/Abominations.md",
-    "Eldrazi/Information/Classifications/Bane of Bala Ged.md"
+    "Eldrazi/Information/Classifications/Unspeakable.md"
   ]
 }
