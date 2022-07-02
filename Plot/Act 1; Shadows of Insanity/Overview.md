@@ -8,17 +8,17 @@
   
 **Antagonistic Faction:** Vampires
 
-**Leader and Primary Antagonist:** Olivia Voldaren
+**Leader and Primary Antagonist:** [[Olivia Voladren]]
 
 
 **Protagonistic Faction:** Humans 
 
-**Leader: **Anastasia Vaeloria
+**Leader:**  [[Anastasia Vaeloria]]
 
 
-**Neutral Faction: **Werewolves
+**Neutral Faction:**  Werewolves
 
-**Leader:** Tovolar
+**Leader:** [[Tovolar]]
 
   
 
@@ -26,20 +26,11 @@
 
 ## NPC’s:
 
-| Name                   | Faction  |
-| ---------------------- | -------- |
-| [[Olivia Voladren]]    | Vampires |
-| [[Anastasia Vaeloria]] | Humans       |
-
-  
-  
-  
-
-Anastasia Vaeloria: Leader of the humans,
-
-  
-  
-  
+| Name                   | Faction    |
+| ---------------------- | ---------- |
+| [[Anastasia Vaeloria]] | Humans     |
+| [[Olivia Voladren]]    | Vampires   |
+| [[Tovolar]]            | Werewolves |
 
 The date is 13 AT, (After trevails). Olivia Voldaren leads the Vampires, while Anastasia Vaeloria 
 

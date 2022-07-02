@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "67568c9f63ba8799",
+        "id": "aac16231f09124cc",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -13,21 +13,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "a5e52433972eb280"
-      },
-      {
-        "id": "1945019ec80edea5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Plot/Act 1; Shadows of Insanity/Overview.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "a5e52433972eb280"
+        }
       }
     ],
     "direction": "vertical"
@@ -54,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"| Name                   | Faction    || ---------------------- | ---------- || [[Olivia Voladren]]    | Vampires   || [[Anastasia Vaeloria]] | Humans     || [[Tovolar]]            | Werewolves | \"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,80 +49,47 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 212.0083885192871
+    "width": 212.0083885192871,
+    "collapsed": true
   },
   "right": {
     "id": "307437437f53b5f5",
     "type": "split",
     "children": [
       {
-        "id": "4a5653cc99384860",
+        "id": "8fff8d1721a2d14a",
         "type": "tabs",
         "children": [
           {
-            "id": "cbc6855ef7466dc6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Plot/Act 1; Shadows of Insanity/Overview.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "253d9b5bb6a398bd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b34208831e17169e",
+            "id": "6a41aad95bdc7071",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "c74d3b9dd5a05030",
-            "type": "leaf",
-            "state": {
-              "type": "Saved Queries View",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 119.26690673828125,
-    "collapsed": true
+    "width": 119.26690673828125
   },
-  "active": "67568c9f63ba8799",
+  "active": "aac16231f09124cc",
   "lastOpenFiles": [
     "Plot/Act 1; Shadows of Insanity/Overview.md",
-    "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Albert Elzavar.md",
     "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Anastasia Vaeloria.md",
+    "Plot/Act 1; Shadows of Insanity/Olivia Voldaren.md",
+    "Plot/Act 1; Shadows of Insanity/NPC's/Neutral/Tovolar.md",
+    "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Albert Elzavar.md",
     "Plot/Act 1; Shadows of Insanity/Settings/Krothval.md",
     "Plot/Act 1; Shadows of Insanity/NPC's/Vampire Aligned/Olivia Voladren.md",
     "Session Plans/Session 1 Plan.md",
     "Archae/Archæa.md",
-    "Planes/Innistrad/Innistrad.md",
-    "Planes/Innistrad/2.md",
-    "Eldrazi/Information/Classifications/Unknowable.md"
+    "Planes/Innistrad/Innistrad.md"
   ]
 }
