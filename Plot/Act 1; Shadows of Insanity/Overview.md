@@ -1,37 +1,24 @@
 # Act one: Shadows of Insanity
 
+**Primary conflict:** Humans VS Vampires power struggle in the Pose Trevails Era.
+
 ---
 
 ## Factions:
-
   
+**Antagonistic Faction:** Vampires
 
-Primary conflict: Humans VS Vampires power struggle in the Pose Trevails Era.
+**Leader and Primary Antagonist:** Olivia Voldaren
 
-  
-  
 
-Antagonistic Faction: Vampires
+**Protagonistic Faction:** Humans 
 
-Leader and Primary Antagonist: Olivia Voldaren
+**Leader: **Anastasia Vaeloria
 
-  
-  
 
-Protagonistic Faction: Humans 
+**Neutral Faction: **Werewolves
 
-  
-
-Leader: Anastasia Vaeloria
-
-  
-  
-
-Neutral Faction: Werewolves
-
-  
-
-Leader: Tovolar
+**Leader:** Tovolar
 
   
 
@@ -39,9 +26,10 @@ Leader: Tovolar
 
 ## NPC’s:
 
-  
-
-Olivia Voladren: Leader of the Vampires, power hungry narcissist that will stop at nothing to subdue all of Innistrad.
+| Name                   | Faction  |
+| ---------------------- | -------- |
+| [[Olivia Voladren]]    | Vampires |
+| [[Anastasia Vaeloria]] | Humans       |
 
   
   

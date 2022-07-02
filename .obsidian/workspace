@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plot/Act 1; Shadows of Insanity/NPC's/Krothval.md",
+            "file": "Plot/Act 1; Shadows of Insanity/Overview.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plot/Act 1; Shadows of Insanity/NPC's/Krothval.md",
+            "file": "Plot/Act 1; Shadows of Insanity/Overview.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Act 1; Shadows of Insanity/NPC's/Krothval.md",
+                "file": "Plot/Act 1; Shadows of Insanity/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +126,17 @@
     "width": 119.26690673828125,
     "collapsed": true
   },
-  "active": "1945019ec80edea5",
+  "active": "67568c9f63ba8799",
   "lastOpenFiles": [
-    "Plot/Act 1; Shadows of Insanity/NPC's/Krothval.md",
-    "Plot/Act 1; Shadows of Insanity/NPC's/Anastasia Vaeloria.md",
-    "Plot/Act 1; Shadows of Insanity/NPC's/Olivia Voladren.md",
-    "Session Plans/Session 1 Plan.md",
     "Plot/Act 1; Shadows of Insanity/Overview.md",
+    "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Albert Elzavar.md",
+    "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Anastasia Vaeloria.md",
+    "Plot/Act 1; Shadows of Insanity/Settings/Krothval.md",
+    "Plot/Act 1; Shadows of Insanity/NPC's/Vampire Aligned/Olivia Voladren.md",
+    "Session Plans/Session 1 Plan.md",
     "Archae/Archæa.md",
     "Planes/Innistrad/Innistrad.md",
     "Planes/Innistrad/2.md",
-    "Eldrazi/Information/Classifications/Unknowable.md",
-    "Eldrazi/Information/Classifications/Unspeakable.md"
+    "Eldrazi/Information/Classifications/Unknowable.md"
   ]
 }

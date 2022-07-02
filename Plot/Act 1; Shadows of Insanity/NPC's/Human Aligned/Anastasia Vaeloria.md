@@ -21,7 +21,7 @@ Anastasia has severe PTSD from what she saw after that. After Mind Breaker moved
 
   
 
-Three images from that day are burned into her mind the most, Mind Breaker, her father mutilating her mother, and the moment she had to use a blunt ornamental axe to kill her father. The she found her brother Strava, relief washed over her as she thought he was okay, but as time went on he grew tentacles and it became clear he had been corrupted by Emrakul. She would go onto hire Albert Elzavar to try to cure him.
+Three images from that day are burned into her mind the most, Mind Breaker, her father mutilating her mother, and the moment she had to use a blunt ornamental axe to kill her father. The she found her brother Strava, relief washed over her as she thought he was okay, but as time went on he grew tentacles and it became clear he had been corrupted by Emrakul. She would go onto hire [[Albert Elzavar]] to try to cure him.
 
   
 
