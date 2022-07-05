@@ -1,4 +1,5 @@
-A world seed is the first crystallization of mana that Kozilek preforms. It acts as a growing point for all the mana to grow off of, it can sometimes contain as much mana in it alone as the rest of the plane combined after seeding. A world seed is the most powerful energy source in existence. As this seed is formed out of pure mana, it can sometimes account for a significent amount of total planar mana. On Zendikar the world seed contains 30% of the total planar mana. On Theros it contains 10% the total planar mana, but on less arcanely powerful worlds, for example Ravnica or Innistrad, the world seed can account for upwards of 90% of the planar mana. To be clear that's the total mana throuout the lifetime of the plane, including seeding.
+A world seed is the first crystallization of mana that Kozilek preforms. It acts as a growing point for all the mana to grow off of, it can sometimes contain as much mana in it alone as the rest of the plane combined after seeding. A world seed is the most powerful energy source in existence. As this seed is formed out of pure mana, it can sometimes account for a significant amount of total planar mana. On Zendikar the world seed contains 30% of the total planar mana. On Theros it contains 10% of the total planar mana, but on less arcanely powerful worlds, for example Ravnica or Innistrad, the world seed can account for upwards of 90% of the planar mana. To be clear, that's the total mana throughout the lifetime of the plane, including seeding, which is often a process containing more mana than the rest of the planes' lifespan combined.
+
 
 Artifacts made with a process involving a world seed include.
 
@@ -17,4 +18,6 @@ A mage who holds a World Seed has access to effectively infinite power. A mage w
 
 An example of the power of a world seed is the Roil on Zendikar.  When the Eldrazi first came to Zendikar, the world seed was damaged and began to bleed out it's power. This resulted in far more free mana then normal, which expressed its self in the Roil, which is litterly the ley lines of Zendikar overflowing like a river after too much rain. All of this mana expenditure is still significantly less than one percent of the mana in Zendikars world seed.
 
-The amount of mana contained within a single world seed can geunily not be overstated.
+The amount of mana contained within a single world seed can geunily not be overstated. 
+
+Whereas a premending planes walker could create a plane, these were often unstable, or small. If a mage held a world seed, they could easily create a new full plane.
