@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eldrazi/Information/world seed.md",
+            "file": "Plot/world seed.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eldrazi/Information/world seed.md",
+                "file": "Plot/world seed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
   },
   "active": "aac16231f09124cc",
   "lastOpenFiles": [
-    "Eldrazi/Information/world seed.md",
+    "Plot/world seed.md",
     "Eldrazi/Information/Eldrazi; Generic Information.md",
     "Eldrazi/Eldrazi.md",
     "Creatures/Mana Blight.md",

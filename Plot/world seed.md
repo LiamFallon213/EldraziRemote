@@ -25,3 +25,7 @@ Whereas a premending planes walker could create a plane, these were often unstab
 However, removing the world seed of a plane can have consequences, it will break the cycle of planar rebirth. When the Eldrazi next come, they will instead fully consume the plane, leaving nothing behind. 
 
 This is what happened to [[Caeralia]] (the plane pictured in "All is Dust"). In fact, currently the world seed once belonging to Caeralia resides in the center of [[The Immortal Sun]]. 
+
+The world seed is always at the meeting point of all ley lines. This is not due to an inherint connection, but due to the nature of formation. A world seed is the first point of existance, which is also the point where all ley lines originate from.
+
+Ley lines can absorb extra mana from the seed an vice versa, as seen on [[Zendikar]] but a world seed is not needed for a plane to exist.
