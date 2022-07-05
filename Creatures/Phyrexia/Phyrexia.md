@@ -1,0 +1,1 @@
+Modern Phyrexia acts on a plane, much like a virus acts on a cell. It corrupts it, turns its ability to make new life into an engine of machine and death. The only saving grace is Phyrexian's inability to traverse planes. This fortunate sideeffect however seems to have been sidestepped by [[Jin-Gitaxis]] recently.
