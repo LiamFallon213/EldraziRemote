@@ -8,5 +8,11 @@ The Eldrazi serve as a vast universal balancer. They are attracted to planes tha
 
 These threats are unique in their ability to destabilize more than the plane they inhabit. Slivers, Phyrexians, and Mana Blight act as planar pathogens, consuming planes then moving to the next one. Among these Slivers are the only one that *can* exist on a plane in a stable state. 
 
-When any of these become too extreme, they form extremely large concentrations of unnatural mana. Far beyond even the most advanced civilations.
+When any of these become too extreme, they form extremely large concentrations of unnatural mana. This lures in the Eldrazi who recycle the plane.
+
+Recycling comes in 3 distinct stages
+
+ Annihilation
+	This is the most seen step, it involves the Eldrazi destroying the current mana distribution of the plane. This leads to the extinction of all life on the plane. This is a three pronged movement, Ulamog the Great Consumer eats floating mana. He seeks out the most rich mana pockets and destroys them, allowing the mana to flow into thenatural ley lines of the plane. t
+
 
