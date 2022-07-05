@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meta/Bucket of Plot.md",
+            "file": "Eldrazi/Information/Eldrazi; Generic Information.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Bucket of Plot.md",
+                "file": "Eldrazi/Information/Eldrazi; Generic Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "aac16231f09124cc",
   "lastOpenFiles": [
+    "Eldrazi/Information/Eldrazi; Generic Information.md",
+    "Eldrazi/Brood of Ulamog/Void Winnower.md",
+    "Meta/Generic Ideas.md",
     "Meta/Bucket of Plot.md",
     "Plot/Act 1; Shadows of Insanity/Overview.md",
     "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Anastasia Vaeloria.md",
     "Plot/Act 1; Shadows of Insanity/Olivia Voldaren.md",
     "Plot/Act 1; Shadows of Insanity/NPC's/Neutral/Tovolar.md",
     "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Albert Elzavar.md",
-    "Plot/Act 1; Shadows of Insanity/Settings/Krothval.md",
-    "Plot/Act 1; Shadows of Insanity/NPC's/Vampire Aligned/Olivia Voladren.md",
-    "Session Plans/Session 1 Plan.md",
-    "Archae/Archæa.md"
+    "Plot/Act 1; Shadows of Insanity/Settings/Krothval.md"
   ]
 }
