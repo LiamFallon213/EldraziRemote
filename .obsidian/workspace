@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plot/Act 1; Shadows of Insanity/Overview.md",
+            "file": "Meta/Bucket of Plot.md",
             "mode": "source",
             "source": false
           }
@@ -49,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 212.0083885192871,
-    "collapsed": true
+    "width": 212.0083885192871
   },
   "right": {
     "id": "307437437f53b5f5",
@@ -79,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Act 1; Shadows of Insanity/Overview.md",
+                "file": "Meta/Bucket of Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +104,7 @@
   },
   "active": "aac16231f09124cc",
   "lastOpenFiles": [
+    "Meta/Bucket of Plot.md",
     "Plot/Act 1; Shadows of Insanity/Overview.md",
     "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Anastasia Vaeloria.md",
     "Plot/Act 1; Shadows of Insanity/Olivia Voldaren.md",
@@ -114,7 +113,6 @@
     "Plot/Act 1; Shadows of Insanity/Settings/Krothval.md",
     "Plot/Act 1; Shadows of Insanity/NPC's/Vampire Aligned/Olivia Voladren.md",
     "Session Plans/Session 1 Plan.md",
-    "Archae/Archæa.md",
-    "Planes/Innistrad/Innistrad.md"
+    "Archae/Archæa.md"
   ]
 }
