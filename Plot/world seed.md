@@ -28,4 +28,4 @@ This is what happened to [[Caeralia]] (the plane pictured in "All is Dust"). In 
 
 The world seed is always at the meeting point of all ley lines. This is not due to an inherint connection, but due to the nature of formation. A world seed is the first point of existance, which is also the point where all ley lines originate from.
 
-Ley lines can absorb extra mana from the seed an vice versa, as seen on [[Zendikar]] but a world seed is not needed for a plane to exist.
+Ley lines can absorb extra mana from the seed and vice versa, as seen on [[Zendikar]] but a world seed is not needed for a plane to exist.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plot/world seed.md",
+            "file": "Plot/Act 1; Shadows of Insanity/Settings/Krothval.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/world seed.md",
+                "file": "Plot/Act 1; Shadows of Insanity/Settings/Krothval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,8 @@
   },
   "active": "aac16231f09124cc",
   "lastOpenFiles": [
+    "Plot/Act 1; Shadows of Insanity/Settings/Krothval.md",
+    "Plot/World Seed Locations.md",
     "Plot/world seed.md",
     "Eldrazi/Information/Eldrazi; Generic Information.md",
     "Eldrazi/Eldrazi.md",
@@ -111,8 +113,6 @@
     "Creatures/Phyrexia/Phyrexian Oil.md",
     "Creatures/Phyrexia/Phyrexia.md",
     "Creatures/Slivers.md",
-    "Eldrazi/Brood of Ulamog/Void Winnower.md",
-    "Meta/Generic Ideas.md",
-    "Meta/Bucket of Plot.md"
+    "Eldrazi/Brood of Ulamog/Void Winnower.md"
   ]
 }
