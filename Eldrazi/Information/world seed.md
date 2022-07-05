@@ -20,4 +20,8 @@ An example of the power of a world seed is the Roil on Zendikar.  When the Eldra
 
 The amount of mana contained within a single world seed can geunily not be overstated. 
 
-Whereas a premending planes walker could create a plane, these were often unstable, or small. If a mage held a world seed, they could easily create a new full plane.
+Whereas a premending planes walker could create a plane, these were often unstable, or small. If a mage held a world seed, they could easily create a new full plane. 
+
+However, removing the world seed of a plane can have consequences, it will break the cycle of planar rebirth. When the Eldrazi next come, they will instead fully consume the plane, leaving nothing behind. This will happen not long after the seed is removed, often less than a Decade. The world seed o
+
+This is what happened to [[Caeralia]] (the plane pictured in "All is Dust"). In fact, currently the world seed once belonging to Caeralia resides in the center of [[The Immortal Sun]].
