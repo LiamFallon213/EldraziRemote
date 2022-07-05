@@ -13,6 +13,6 @@ When any of these become too extreme, they form extremely large concentrations o
 Recycling comes in 3 distinct stages
 
  Annihilation
-	This is the most seen step, it involves the Eldrazi destroying the current mana distribution of the plane. This leads to the extinction of all life on the plane. This is a three pronged movement, Ulamog the Great Consumer eats floating mana. He seeks out the most rich mana pockets and destroys them, allowing the mana to flow into thenatural ley lines of the plane. t
+	This is the most seen step, it involves the Eldrazi destroying the current mana distribution of the plane. This leads to the extinction of all life on the plane. This is a three-pronged movement, Ulamog the Great Consumer eats floating mana. He seeks out the most rich mana pockets and destroys them, allowing the mana to flow into the natural ley lines of the plane, like breaking a dam. While this is happening, Kozilek shatters the ley lines on the world. they overflow into the rocks nearby, giving the distinct tungsten look to his path. While this heppens Emrakul
 
 
