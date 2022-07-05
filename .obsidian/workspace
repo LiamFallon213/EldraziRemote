@@ -7,12 +7,8 @@
         "id": "aac16231f09124cc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Plot/World Seed Locations.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/World Seed Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
