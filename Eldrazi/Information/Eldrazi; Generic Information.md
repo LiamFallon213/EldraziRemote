@@ -8,4 +8,5 @@ The Eldrazi serve as a vast universal balancer. They are attracted to planes tha
 
 These threats are unique in their ability to destabilize more than the plane they inhabit. Slivers, Phyrexians, and Mana Blight act as planar pathogens, consuming planes then moving to the next one. Among these Slivers are the only one that *can* exist on a plane in a stable state. 
 
-[[Mana Blight]]
+When any of these become too extreme, they form extremely large concentrations of unnatural mana. Far beyond even the most advanced civilations.
+
