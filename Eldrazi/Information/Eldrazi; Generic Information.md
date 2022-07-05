@@ -19,7 +19,18 @@ Construction
 	After the burst, Kozilek gets to work forming the floating mana into land. The tungsten crystals he produces are extremely rich in mana normally. Crystals produced in this stage are some of the most powerful sources of magical energy in plane. Kozilek builds new terrain, weaves new ley lines, mana fountains, etc.
 
 Seeding
-	Finally Emrakul begins her job, she travels across the mana rich wasteland and bestows life. The mana is pulled out and placed into creatures. After this the recycling is complete and the Eldrazi leave. While the vast majority of the creation crystals are destoryed in this process, occasionally some survive and when found often lead to some of the most powerful items in creation. Glistening Oil, the Apocalypse Chime, the Planar Bridge, the Golgothian Sylex, The Mirai, That Which Was Taken, The Immortal Sun, Neverinnals Disk, The Chain Veil,
+	Finally Emrakul begins her job, she travels across the mana rich wasteland and bestows life. The mana is pulled out and placed into creatures. After this the recycling is complete and the Eldrazi leave. While the vast majority of the creation crystals are destoryed in this process, some does survive and is usully made into mana generating artifacts. However every world contains one "Seed". A world seed is the most powerful energy source in existance. Artifacts made with a process involving a world seed include
+	- Neverinnals Disk
+	- the Planar Bridge
+	-  Glistening Oil
+	- The Chain Veil
+	- The Mirai 
+	- That Which Was Taken
+	
+	 E.g:  , the Apocalypse Chime, , the Golgothian Sylex, , , The Immortal Sun, , .
+	
+	
+	
 
 
 This is not a random process, Emrakul created it along with Ulamog and Kozilek. She is also the guider of the process. While all three Titans are vastly more intelligent then the average man, they do vary. Ulamog is highly intelligent, but can be out thought by the most powerful intellects, like Nicol Bolos and Jace.
