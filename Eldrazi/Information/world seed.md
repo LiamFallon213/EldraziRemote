@@ -11,4 +11,8 @@ But even those pale in comparison to the artifacts that contain a world seed: th
 
 Only one world seed is currently exposed, the world seed of Zendikar residing in [[The Eye of Ugin]], which served as the power source for the Hedron matrix.
 
-A mage who holds a World Seed has access to effectively infinite power. A mage with sufficient skill, holding a world seed, could brush off even pre mending pla
+A mage who holds a World Seed has access to effectively infinite power. A mage with sufficient skill, holding a world seed, could brush off even pre mending planes walkers as if they were insects.
+
+An example of the power of a world seed is the Roil on Zendikar.  When the Eldrazi first came to Zendikar, the world seed was damaged and began to bleed out it's power. This resulted in far more free mana then normal, which expressed its self in the Roil, which is litterly the ley lines of Zendikar overflowing like a river after too much rain. All of this mana expenditure is still significantly less than one percent of the mana in Zendikars world seed.
+
+The amount of mana contained within a sing
