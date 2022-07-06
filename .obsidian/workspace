@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "aac16231f09124cc",
+        "id": "67568c9f63ba8799",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        },
+        "group": "a5e52433972eb280"
+      },
+      {
+        "id": "1945019ec80edea5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plot/World Seed Locations.md",
-            "mode": "source",
+            "file": "Eldrazi/Brood of Ulamog/Void Winnower.md",
+            "mode": "preview",
             "source": false
           }
-        }
+        },
+        "group": "a5e52433972eb280"
       }
     ],
     "direction": "vertical"
@@ -40,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"| Name                   | Faction    || ---------------------- | ---------- || [[Olivia Voladren]]    | Vampires   || [[Anastasia Vaeloria]] | Humans     || [[Tovolar]]            | Werewolves | \"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,24 +70,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8fff8d1721a2d14a",
+        "id": "4a5653cc99384860",
         "type": "tabs",
         "children": [
           {
-            "id": "6a41aad95bdc7071",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "60b7a3411bf27ee7",
+            "id": "cbc6855ef7466dc6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/World Seed Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,30 +90,40 @@
             }
           },
           {
-            "id": "9677e12ebab3c5b6",
+            "id": "253d9b5bb6a398bd",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
               "state": {}
             }
+          },
+          {
+            "id": "b34208831e17169e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 119.26690673828125
+    "width": 119.26690673828125,
+    "collapsed": true
   },
-  "active": "aac16231f09124cc",
+  "active": "67568c9f63ba8799",
   "lastOpenFiles": [
-    "Plot/World Seed Locations.md",
-    "Plot/Act 1; Shadows of Insanity/Overview.md",
-    "Plot/Golgothian Sylex.md",
-    "Plot/world seed.md",
-    "Plot/Act 1; Shadows of Insanity/Settings/Krothval.md",
-    "Eldrazi/Information/Eldrazi; Generic Information.md",
-    "Eldrazi/Eldrazi.md",
+    "Eldrazi/Brood of Ulamog/Void Winnower.md",
+    "Eldrazi/Information/Classifications/Unknowable.md",
+    "Eldrazi/Information/Classifications/Terminus (Titan).md",
+    "Eldrazi/Brood of Ulamog/Bane of Bala Ged.md",
+    "Eldrazi/Information/Classifications/Unspeakable.md",
+    "Eldrazi/Information/Classifications/Abominations.md",
+    "Eldrazi/Information/Classifications/Drone.md",
+    "Eldrazi/Information/Classifications/Scion.md",
     "Creatures/Mana Blight.md",
-    "Creatures/Phyrexia/Phyrexian Oil.md",
-    "Creatures/Phyrexia/Phyrexia.md"
+    "Archae/Archæa.md"
   ]
 }
