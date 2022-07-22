@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eldrazi/Information/Classifications/Unspeakable.md",
-            "mode": "preview",
+            "file": "Timeline/Timeline.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#info",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,14 +66,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eldrazi/Information/Classifications/Unspeakable.md",
+                "file": "Timeline/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eldrazi/Information/Classifications/Unspeakable.md",
+                "file": "Timeline/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +144,15 @@
   },
   "active": "9152ff7e9bfc49d0",
   "lastOpenFiles": [
+    "Timeline/Timeline.md",
+    "Timeline/The Trevails.md",
+    "Timeline/Code Templates.md",
     "Eldrazi/Information/Classifications/Unspeakable.md",
     "Eldrazi/Information/Classifications/Unknowable.md",
     "Eldrazi/Information/Classifications/Terminus (Titan).md",
     "Eldrazi/Information/Classifications/Scion.md",
     "Eldrazi/Information/Classifications/Mind Raker.md",
     "Eldrazi/Information/Classifications/Drone.md",
-    "Eldrazi/Information/Classifications/Abominations.md",
-    "Eldrazi/Brood of Ulamog/Void Winnower.md",
-    "Eldrazi/Brood of Ulamog/Bane of Bala Ged.md",
-    "Eldrazi/Eldrazi.md"
+    "Eldrazi/Information/Classifications/Abominations.md"
   ]
 }
