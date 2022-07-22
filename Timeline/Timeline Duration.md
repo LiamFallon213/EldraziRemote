@@ -1,3 +1,0 @@
-```timeline-vis
-tags=timeline
-```
