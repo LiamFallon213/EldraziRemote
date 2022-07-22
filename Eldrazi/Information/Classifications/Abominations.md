@@ -1,3 +1,7 @@
+---
+tags: [eldrazi, info]
+---
+
 Classification: Abomination
 
 Average Dimensions: 

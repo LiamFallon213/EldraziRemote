@@ -1,3 +1,6 @@
+---
+tags: [eldrazi, info]
+---
 Classification: Scion
 
 Average Dimensions: 

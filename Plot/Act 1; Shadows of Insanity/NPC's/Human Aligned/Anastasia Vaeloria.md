@@ -1,3 +1,7 @@
+---
+tags: [NPC]
+---
+
 Name: Anastasia Vaeloria
 
 Level 10 Grave Cleric. 

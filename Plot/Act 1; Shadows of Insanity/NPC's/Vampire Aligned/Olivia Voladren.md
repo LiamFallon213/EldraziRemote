@@ -1,3 +1,6 @@
+---
+tags: [NPC]
+---
 # Name: Olivia Voldaren   
 
 Race: Vampire

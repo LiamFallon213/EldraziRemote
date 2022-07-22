@@ -1,3 +1,6 @@
+---
+tags: [eldrazi, info]
+---
 Classification: Unspeakable
 
 Average Dimensions: 

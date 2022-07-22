@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0a956ef4b6f33ba3",
+        "id": "9152ff7e9bfc49d0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Timeline/Template.md",
-            "mode": "source",
+            "file": "Eldrazi/Information/Classifications/Unspeakable.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#eldrazi",
+                "query": "tag:#info",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,8 +48,32 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "fa1be78ecc555dab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67d73ee2f5c1157e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Eldrazi/Information/Classifications/Unspeakable.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline/Template.md",
+                "file": "Eldrazi/Information/Classifications/Unspeakable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,36 +135,25 @@
               "type": "juggl_style",
               "state": {}
             }
-          },
-          {
-            "id": "fa1be78ecc555dab",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 119.26690673828125,
+    "width": 258,
     "collapsed": true
   },
-  "active": "0a956ef4b6f33ba3",
+  "active": "9152ff7e9bfc49d0",
   "lastOpenFiles": [
-    "Timeline/Template.md",
-    "Templates/Timeline Event.md",
-    "Timeline/Timeline.md",
-    "Templates/NPC.md",
-    "Templates/Item.md",
-    "Plot/World Seed Locations.md",
-    "Plot/Act 1; Shadows of Insanity/Settings/Krothval.md",
-    "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Anastasia Vaeloria.md",
-    "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Albert Elzavar.md",
-    "Eldrazi/Emrakul.md"
+    "Eldrazi/Information/Classifications/Unspeakable.md",
+    "Eldrazi/Information/Classifications/Unknowable.md",
+    "Eldrazi/Information/Classifications/Terminus (Titan).md",
+    "Eldrazi/Information/Classifications/Scion.md",
+    "Eldrazi/Information/Classifications/Mind Raker.md",
+    "Eldrazi/Information/Classifications/Drone.md",
+    "Eldrazi/Information/Classifications/Abominations.md",
+    "Eldrazi/Brood of Ulamog/Void Winnower.md",
+    "Eldrazi/Brood of Ulamog/Bane of Bala Ged.md",
+    "Eldrazi/Eldrazi.md"
   ]
 }
