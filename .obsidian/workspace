@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Timeline/Template.md",
+            "file": "Eldrazi/Kozilek.md",
             "mode": "source",
             "source": false
           }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"| Name                   | Faction    || ---------------------- | ---------- || [[Olivia Voladren]]    | Vampires   || [[Anastasia Vaeloria]] | Humans     || [[Tovolar]]            | Werewolves | \"",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline/Template.md",
+                "file": "Eldrazi/Kozilek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "0a956ef4b6f33ba3",
   "lastOpenFiles": [
+    "Eldrazi/Kozilek.md",
+    "Eldrazi/Emrakul.md",
+    "Eldrazi/Eldrazi.md",
     "Timeline/Template.md",
     "Timeline/Timeline.md",
     "Plot/Untitled mindmap.md",
     "Plot/Timeline.md",
     "Timeline.md",
     "Plot/Timeline.md",
-    "conflict-files-obsidian-git.md",
-    "Plot/World Seed Locations.md",
-    "Plot/Act 1; Shadows of Insanity/Overview.md",
-    "Plot/Golgothian Sylex.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

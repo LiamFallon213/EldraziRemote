@@ -1,4 +1,7 @@
 {
   "baseFontSize": 12,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "css"
+  ]
 }

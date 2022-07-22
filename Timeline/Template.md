@@ -1,17 +1,17 @@
 ---
-tags: [timeline, test, now]
+tags: [template]
 ---
 
 
-<span class='ob-timelines' data-date='1499-03-28-00' data-title="An example"></span>
+<span class='ob-timelines' data-date='1499-03-28-00' data-title="Compressed code">WORDS HERE</span>
 
 <span 
 	  class='ob-timelines' 
 	  data-date='2000-10-10-00' 
-	  data-title='Another Event' 
+	  data-title='Full Code Ex' 
 	  data-class='orange' 
 	  data-img = 'Timeline Example/Timeline_2.jpg' 
 	  data-type='range' 
 	  data-end='2000-10-20-00'> 
-	A second event!
+	WORDS HERE
 </span>
