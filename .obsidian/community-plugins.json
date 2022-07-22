@@ -5,5 +5,7 @@
   "advanced-cursors",
   "obsidian-admonition",
   "obsidian-timelines",
-  "juggl"
+  "juggl",
+  "obsidian-frontmatter-tag-suggest",
+  "tag-wrangler"
 ]
