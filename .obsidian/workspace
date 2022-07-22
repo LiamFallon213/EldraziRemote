@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d96e1eea2075f4e3",
+        "id": "0a956ef4b6f33ba3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Timeline/Untitled.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Timeline/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +95,22 @@
               "type": "Saved Queries View",
               "state": {}
             }
+          },
+          {
+            "id": "c8cf0b3c8bdff383",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a2124d0ec58a4ef",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ]
       }
@@ -97,8 +118,10 @@
     "direction": "horizontal",
     "width": 119.26690673828125
   },
-  "active": "d96e1eea2075f4e3",
+  "active": "0a956ef4b6f33ba3",
   "lastOpenFiles": [
+    "Timeline/Untitled.md",
+    "Timeline/Timeline.md",
     "Plot/Untitled mindmap.md",
     "Plot/Timeline.md",
     "Timeline.md",
@@ -106,8 +129,6 @@
     "conflict-files-obsidian-git.md",
     "Plot/World Seed Locations.md",
     "Plot/Act 1; Shadows of Insanity/Overview.md",
-    "Plot/Golgothian Sylex.md",
-    "Plot/world seed.md",
-    "Plot/Act 1; Shadows of Insanity/Settings/Krothval.md"
+    "Plot/Golgothian Sylex.md"
   ]
 }
