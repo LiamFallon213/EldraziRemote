@@ -45,7 +45,7 @@
     "Ugin"
   ],
   "newFileLocation": "current",
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "Attatchments",
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
   "defaultViewMode": "preview",
