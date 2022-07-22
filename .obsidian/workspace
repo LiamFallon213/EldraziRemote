@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Timeline/Sessions/S1.md",
+            "file": "Eldrazi/Information/Classifications/Drone.md",
             "mode": "source",
             "source": false
           }
@@ -66,7 +66,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline/Sessions/S1.md",
+                "file": "Eldrazi/Information/Classifications/Drone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline/Sessions/S1.md",
+                "file": "Eldrazi/Information/Classifications/Drone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
   },
   "active": "3bfe8d828f725517",
   "lastOpenFiles": [
+    "Eldrazi/Information/Classifications/Drone.md",
+    "Eldrazi/Information/Classifications/Scion.md",
+    "Eldrazi/Eldrazi.md",
     "Timeline/Sessions/S1.md",
+    "Eldrazi/Information/Classifications/Abominations.md",
+    "Eldrazi/Information/Classifications/Unknowable.md",
+    "Eldrazi/Information/Classifications/Unspeakable.md",
     "Timeline/Events/The Moonlit Ball.md",
     "Plot/Act 1; Shadows of Insanity/Overview.md",
-    "Timeline/Timeline Order.md",
-    "Timeline/Events/Anastasia Vaeloria born.md",
-    "Timeline/Code Templates.md",
-    "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Anastasia Vaeloria.md",
-    "Templates/Timeline Event.md",
-    "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Albert Elzavar.md",
-    "Timeline/Events/Coronation of Olivia Voldaren.md"
+    "Timeline/Timeline Order.md"
   ]
 }

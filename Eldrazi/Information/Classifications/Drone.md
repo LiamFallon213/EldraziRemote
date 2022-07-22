@@ -5,8 +5,8 @@ tags: [eldrazi, info]
 Classification: Drone
 
 Average Dimensions: 
-	Height: 2-10'
-	Weight: 20-200 lbs.
+	Height: 5-10'
+	Weight: 120-700 lbs.
 
 Information: 
 	Drones are the second tier of Eldrazi, some research shows that they may be spawn that consume their brethren, or may be lesser Eldrazi.
