@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Timeline/Timeline.md",
+            "file": "Timeline/Timeline Duration.md",
             "mode": "source",
             "source": false
           }
@@ -66,7 +66,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline/Timeline.md",
+                "file": "Timeline/Timeline Duration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline/Timeline.md",
+                "file": "Timeline/Timeline Duration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,8 @@
   },
   "active": "9152ff7e9bfc49d0",
   "lastOpenFiles": [
-    "Timeline/Timeline.md",
+    "Timeline/Timeline Duration.md",
+    "Timeline/Timeline Order.md",
     "Timeline/The Trevails.md",
     "Meta/Bucket of Plot.md",
     "Attatchments/Pasted image 20220722021236.png",
@@ -152,7 +153,6 @@
     "Timeline/161905_CN-980x1345 1.jpg",
     "Timeline/161905_CN-980x1345.jpg",
     "Templates/Timeline Event.md",
-    "Timeline/Code Templates.md",
-    "Eldrazi/Information/Classifications/Unspeakable.md"
+    "Timeline/Code Templates.md"
   ]
 }

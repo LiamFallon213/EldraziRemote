@@ -1,5 +1,5 @@
 ---
-tags: [timeline, timeline-vis]
+tags: [timeline]
 ---
 
 <span 
