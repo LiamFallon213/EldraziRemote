@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Timeline/Timeline Order.md",
+            "file": "Timeline/Events/Coronation of Olivia Voldaren.md",
             "mode": "source",
             "source": false
           }
@@ -66,7 +66,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline/Timeline Order.md",
+                "file": "Timeline/Events/Coronation of Olivia Voldaren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline/Timeline Order.md",
+                "file": "Timeline/Events/Coronation of Olivia Voldaren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
   },
   "active": "9152ff7e9bfc49d0",
   "lastOpenFiles": [
-    "Timeline/Timeline Order.md",
+    "Timeline/Events/Coronation of Olivia Voldaren.md",
+    "Templates/Timeline Event.md",
     "Timeline/Events/The Moonlit Ball.md",
+    "Timeline/Timeline Order.md",
     "Timeline/Code Templates.md",
     "Timeline/Events/The Trevails.md",
     "Plot/Act 1; Shadows of Insanity/Overview.md",
     "Timeline/Timeline Duration.md",
     "Meta/Bucket of Plot.md",
-    "Attatchments/Pasted image 20220722021236.png",
-    "Timeline/Pasted image 20220722020942.png",
-    "Timeline/161905_CN-980x1345 1.jpg"
+    "Attatchments/Pasted image 20220722021236.png"
   ]
 }
