@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/NPC.md",
+            "file": "Timeline/Template.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/NPC.md",
+                "file": "Timeline/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,15 +132,15 @@
   },
   "active": "0a956ef4b6f33ba3",
   "lastOpenFiles": [
+    "Timeline/Template.md",
+    "Templates/Timeline Event.md",
+    "Timeline/Timeline.md",
     "Templates/NPC.md",
+    "Templates/Item.md",
+    "Plot/World Seed Locations.md",
+    "Plot/Act 1; Shadows of Insanity/Settings/Krothval.md",
     "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Anastasia Vaeloria.md",
     "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Albert Elzavar.md",
-    "Timeline/Template.md",
-    "Eldrazi/Emrakul.md",
-    "Eldrazi/Kozilek.md",
-    "Eldrazi/Ulamog.md",
-    "Eldrazi/Eldrazi.md",
-    "Timeline/Timeline.md",
-    "Plot/Untitled mindmap.md"
+    "Eldrazi/Emrakul.md"
   ]
 }
