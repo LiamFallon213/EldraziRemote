@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9152ff7e9bfc49d0",
+        "id": "c39ad8dd8d0c7849",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Timeline/Timeline Order.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -66,7 +62,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline/Timeline Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline/Timeline Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,17 +136,17 @@
     "width": 258,
     "collapsed": true
   },
-  "active": "9152ff7e9bfc49d0",
+  "active": "c39ad8dd8d0c7849",
   "lastOpenFiles": [
+    "Timeline/Events/Anastasia Vaeloria born.md",
+    "Timeline/Events/The Moonlit Ball.md",
     "Timeline/Timeline Order.md",
+    "Timeline/Code Templates.md",
+    "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Anastasia Vaeloria.md",
+    "Templates/Timeline Event.md",
+    "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Albert Elzavar.md",
     "Timeline/Events/Coronation of Olivia Voldaren.md",
     "Timeline/Events/The Trevails.md",
-    "Timeline/Events/The Moonlit Ball.md",
-    "Templates/Timeline Event.md",
-    "Timeline/Code Templates.md",
-    "Plot/Act 1; Shadows of Insanity/Overview.md",
-    "Timeline/Timeline Duration.md",
-    "Meta/Bucket of Plot.md",
-    "Attatchments/Pasted image 20220722021236.png"
+    "Plot/Act 1; Shadows of Insanity/Overview.md"
   ]
 }

@@ -9,7 +9,7 @@ tags: [timeline]
 	  data-class='orange' 
 	  data-img = 'attatchments/Pasted image 20220722030742.png' 
 	  data-type='range' 
-	  data-end='0013-13-14-1000'> > 
+	  data-end='0013-13-14-1000'>
 	The story for our heros begins
 </span>
 
