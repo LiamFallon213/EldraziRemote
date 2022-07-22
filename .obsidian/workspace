@@ -7,18 +7,10 @@
         "id": "aac16231f09124cc",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "1dacef1923a37993",
-        "type": "leaf",
-        "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "preview",
+            "file": "Timeline.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -85,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,8 +102,10 @@
     "direction": "horizontal",
     "width": 119.26690673828125
   },
-  "active": "1dacef1923a37993",
+  "active": "aac16231f09124cc",
   "lastOpenFiles": [
+    "Timeline.md",
+    "Plot/Timeline.md",
     "conflict-files-obsidian-git.md",
     "Plot/World Seed Locations.md",
     "Plot/Act 1; Shadows of Insanity/Overview.md",
@@ -119,8 +113,6 @@
     "Plot/world seed.md",
     "Plot/Act 1; Shadows of Insanity/Settings/Krothval.md",
     "Eldrazi/Information/Eldrazi; Generic Information.md",
-    "Eldrazi/Eldrazi.md",
-    "Creatures/Mana Blight.md",
-    "Creatures/Phyrexia/Phyrexian Oil.md"
+    "Eldrazi/Eldrazi.md"
   ]
 }
