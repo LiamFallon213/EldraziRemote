@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eldrazi/Information/Classifications/Drone.md",
+            "file": "Timeline/Sessions/S1.md",
             "mode": "source",
             "source": false
           }
@@ -66,7 +66,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eldrazi/Information/Classifications/Drone.md",
+                "file": "Timeline/Sessions/S1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eldrazi/Information/Classifications/Drone.md",
+                "file": "Timeline/Sessions/S1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,11 +144,11 @@
   },
   "active": "3bfe8d828f725517",
   "lastOpenFiles": [
+    "Timeline/Sessions/S1.md",
+    "Eldrazi/Information/Classifications/Abominations.md",
     "Eldrazi/Information/Classifications/Drone.md",
     "Eldrazi/Information/Classifications/Scion.md",
     "Eldrazi/Eldrazi.md",
-    "Timeline/Sessions/S1.md",
-    "Eldrazi/Information/Classifications/Abominations.md",
     "Eldrazi/Information/Classifications/Unknowable.md",
     "Eldrazi/Information/Classifications/Unspeakable.md",
     "Timeline/Events/The Moonlit Ball.md",

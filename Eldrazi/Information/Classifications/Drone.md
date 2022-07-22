@@ -5,7 +5,7 @@ tags: [eldrazi, info]
 Classification: Drone
 
 Average Dimensions: 
-	Height: 5-10'
+	Height: 5-15'
 	Weight: 120-700 lbs.
 
 Information: 
