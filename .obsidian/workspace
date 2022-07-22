@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Timeline/Untitled.md",
+            "file": "Timeline/Timeline.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline/Untitled.md",
+                "file": "Timeline/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +120,8 @@
   },
   "active": "0a956ef4b6f33ba3",
   "lastOpenFiles": [
-    "Timeline/Untitled.md",
     "Timeline/Timeline.md",
+    "Timeline/The Trevails.md",
     "Plot/Untitled mindmap.md",
     "Plot/Timeline.md",
     "Timeline.md",
