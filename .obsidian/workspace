@@ -4,13 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3bfe8d828f725517",
+        "id": "494630f967cbbd67",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
+          "type": "markdown",
+          "state": {
+            "file": "Plot/Act 1; Shadows of Insanity/Plot Items/The Moon Cradle.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -64,6 +66,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Plot/Act 1; Shadows of Insanity/Plot Items/The Moon Cradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plot/Act 1; Shadows of Insanity/Plot Items/The Moon Cradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +142,17 @@
     "width": 258,
     "collapsed": true
   },
-  "active": "3bfe8d828f725517",
+  "active": "494630f967cbbd67",
   "lastOpenFiles": [
-    "Timeline/Sessions/S1.md",
-    "Eldrazi/Information/Classifications/Abominations.md",
-    "Eldrazi/Information/Classifications/Drone.md",
-    "Eldrazi/Information/Classifications/Scion.md",
-    "Eldrazi/Eldrazi.md",
-    "Eldrazi/Information/Classifications/Unknowable.md",
-    "Eldrazi/Information/Classifications/Unspeakable.md",
-    "Timeline/Events/The Moonlit Ball.md",
+    "Plot/Act 1; Shadows of Insanity/Untitled.md",
+    "Plot/Act 1; Shadows of Insanity/Plot Items/The Moon Cradle.md",
+    "Plot/World Seed Locations.md",
+    "Plot/world seed.md",
     "Plot/Act 1; Shadows of Insanity/Overview.md",
-    "Timeline/Timeline Order.md"
+    "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Anastasia Vaeloria.md",
+    "Plot/Act 1; Shadows of Insanity/NPC's/Human Aligned/Albert Elzavar.md",
+    "Plot/Act 1; Shadows of Insanity/NPC's/Neutral/Tovolar.md",
+    "Plot/Act 1; Shadows of Insanity/NPC's/Vampire Aligned/NPC.md",
+    "Plot/Act 1; Shadows of Insanity/NPC's/Vampire Aligned/Olivia Voladren.md"
   ]
 }

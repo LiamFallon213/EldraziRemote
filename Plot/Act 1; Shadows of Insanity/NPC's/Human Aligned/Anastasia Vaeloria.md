@@ -1,5 +1,5 @@
 ---
-tags: [NPC]
+tags: [NPC, Innistrad, humans ]
 ---
 
 Name: Anastasia Vaeloria

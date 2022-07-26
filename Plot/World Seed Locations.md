@@ -1,7 +1,7 @@
 | Plane Name   | World Seed Location            |
 | ------------ | ------------------------------ |
 | Zendikar     | The Eye of Ugin                |
-| Innistrad    | The Moon                       | 
+| Innistrad    | [[The Moon Cradle]]                       | 
 | Dominaria    | The [[Golgothian Sylex]]       |
 | New Phyrexia | Non Existent, Artificial Plane |
 | Kamigawa     | Beneath Boseiju                |

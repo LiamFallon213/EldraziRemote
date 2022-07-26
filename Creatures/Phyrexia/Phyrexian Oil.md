@@ -1,3 +1,6 @@
+---
+tags: [Phyrexia]
+---
 https://mtg.fandom.com/wiki/Glistening_oil
 
 A viral self replicating substance that can corrupt an entire plane with a single drop.

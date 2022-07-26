@@ -1,3 +1,3 @@
 ---
-tags: [NPC]
+tags: [NPC, Innistrad, werewolves]
 ---
