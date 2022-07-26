@@ -6,13 +6,11 @@
       {
         "id": "3bfe8d828f725517",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Timeline/Sessions/S1.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -66,7 +64,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline/Sessions/S1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline/Sessions/S1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
